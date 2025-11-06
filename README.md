@@ -60,7 +60,7 @@
 <h3 align="center">Atualmente estou disponível para trabalhar em novos projetos de <b>Programação Multiplataforma, Automação, Sistemas Embarcados, Infraestrutura de Redes, Inteligência Artificial, Planejamento e Desenvolvimento de Sistemas<br></b></h3>
 <div align="center"> 
 <h2 >Visualizações :heart:<br><br>
-<img src="https://profile-counter.glitch.me/ThiagoSousa81/count.svg"></h2> 
+<img src="https://profile-counter.glitch.me/Chuggu12/count.svg"></h2> 
 </div>
 
 <div align="center">
