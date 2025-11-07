@@ -9,7 +9,7 @@
 
 ![snake gif](https://github.com/Chuggu12/Profile_Snake/blob/main/101.svg)
 
-> | Idioma | 🇧🇷 PT-BR | **[🇺🇸 EN-US](https://github.com/ThiagoSousa81/ThiagoSousa81/blob/main/README.en-us.md)** |
+> | Idioma | 🇧🇷 PT-BR | **[🇺🇸 EN-US](https://github.com/Chuggu12/Chuggu12/edit/main/README.en-us.md)** |
 > | --- | --- | --- |
 
 <details>
