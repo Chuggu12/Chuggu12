@@ -7,7 +7,7 @@
   
 </div>
 
-![snake gif](https://github.com/thiagosousa81/thiagosousa81/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Chuggu12/Profile_Snake/blob/main/101.svg)
 
 > | Idioma | 🇧🇷 PT-BR | **[🇺🇸 EN-US](https://github.com/ThiagoSousa81/ThiagoSousa81/blob/main/README.en-us.md)** |
 > | --- | --- | --- |
@@ -33,7 +33,7 @@
 
 ### De forma individual, realizo pesquisas na área de criptografia, como <i>Criptógrafo-Analista</i>, onde procuro as melhores combinações de encriptação para projetos mais seguros, baseando-me em testes de <i>Criptoanálise</i>.
 
-<details><summary><h3>Para você que chegou aqui tome esse presente</h3></summary>
+<details><summary><h3>Welcome to the repository</h3></summary>
 
 <h2 align=center>Uma par de chaves RSA</h2>
 
