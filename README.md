@@ -9,13 +9,14 @@
 
 ![snake gif](https://github.com/Chuggu12/Profile_Snake/blob/main/101.svg)
 
-> | Idioma | 🇧🇷 PT-BR | **[🇺🇸 EN-US](https://github.com/Chuggu12/Chuggu12/edit/main/README.en-us.md)** |
-> | --- | --- | --- |
 
 <details>
   
-### 📚 Cursando <b>Bacharelado em Ciências Exatas e Tecnológicas</b> 🧮 na UFRB, com terminalidade em Engenharia da Computação 💻
-### 👨‍💻 Técnico em Informática 📝🔧🪛 pelo CETEP Alberto Torres 🍎
+### 📚 M.A. Economics (2023–2025) — Delhi Technological University<b>
+
+### 🎓 B.Sc. (Hons) Mathematics, Minor in Economics(2019-2022) — University of Delhi<b>
+
+### 🏫 Schooling — K.V. No.1, AFS Jodhpur(2019)
   
 ### Por ser interessado no desenvolvimento de aplicações onde a <b>Segurança 🔐 da Informação</b> é uma <b>🚨 PRIORIDADE 🚨</b>, comecei o projeto [<b>EBS Security Systems</b>](https://github.com/EBS-Security-Systems)
 
@@ -35,21 +36,16 @@
 
 <details><summary><h3>Welcome to the repository</h3></summary>
 
-<h2 align=center>Uma par de chaves RSA</h2>
-
-[![EBS-Key-Pair-Generator](https://read-me-tasks.vercel.app/generate-keys)](https://read-me-tasks.vercel.app/)
-
+---- this is blank, fill it, what u like with
 </details>
 
   
 </details>
 
-<h2 align=center>Gráfico de Contribuíções</h2>
+<h2 align=center>GitHub Contributions</h2>
 
 <div align=center><img src="./profile-3d-contrib/profile-night-green.svg" alt="" width="90%"></div>
 
-
-<h1 align="center">Conheça a <a href="https://ebs-systems.epizy.com/" target="_blank">EBS Security Systems</a></h1>
 
 | <div style="width: 25%"><h3>Uma startup intensivamente focada no desenvolvimento de software seguro. <br><br><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%237700FF?&logo=github&logoColor=white" target="_blank" style="height: 30px"></a>  <a href="https://docs.google.com/forms/d/e/1FAIpQLSed6wOG8Isfg6q4YAOVWmlKSjtvUG8z0evKc_Lo_3RNPBwGUw/viewform?usp=sf_link" target="_blank"><img src="https://img.shields.io/badge/FAZER%20PARTE-nocolor?style=flat" style="height: 30px"/></a></h3></div> | <div style="width: 75%"><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><p><img src="/image2.png" alt="EBS Security Systems"  width="40%" ></p></a></div> |
 | --- | --- |
