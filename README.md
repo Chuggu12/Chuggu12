@@ -3,8 +3,8 @@
   
 [<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0&height=100&section=header"/>](https://capsule-render.vercel.app/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=600&size=43&duration=3000&pause=1000&color=0A9529&center=true&vCenter=true&width=750&height=175&lines=Meu+nome+%C3%A9+Thiago+Sousa;Sou+um+Dev+Full-Stack;Dedicado+%C3%A0+Criptografia;Cientista+por+voca%C3%A7%C3%A3o+%F0%9F%92%9A;CEO+do+EBS+Security+Systems;Cursando+BCET+na+UFRB;Sempre+ativo+no+Git-Hub;Dispon%C3%ADvel+para+projetos;Descri%C3%A7%C3%A3o+completa+abaixo+%F0%9F%98%89;Encontre+o+Easter-Egg+🕵️‍♂️)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=46&duration=4999&pause=993&color=37F750&center=true&multiline=true&width=2700&height=110&lines=Mathematician+X+Economist;My+career+objective+to+address+social+and+economic+challenges%2C+%26+formulate+a+solution+model+for+it)](https://git.io/typing-svg)
+
 </div>
 
 ![snake gif](https://github.com/Chuggu12/Profile_Snake/blob/main/101.svg)
@@ -68,7 +68,7 @@
 
 </div>
 
-## Linguagens predominantes 
+## LANGUAGES
 
 | Commits | Repositórios |
 | --- | --- |
@@ -76,13 +76,13 @@
 
 <p>Obs.: Meu Git-Hub tem essas linguagens predominantes mas como um Dev multiplataforma posso me adaptar tranquilamente a desenvolver sistemas sólidos e escalonáveis em qualquer tecnologia.</p>
 
-## Status de contribuíções
+## CONTRIBUTIONS
 
 | Contribuíções | Produtividade média |
 | --- | --- |
 | ![Github contribuinte](https://github-readme-streak-stats-8equ.vercel.app?user=ThiagoSousa81&theme=chartreuse-dark&locale=pt_BR) | ![Produtividade_media](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoSousa81&theme=chartreuse_dark&utcOffset=-3) |
 
-## Troféus
+## MILESTONES
 
 <!--![trophy](https://github-profile-trophy.vercel.app/?username=thiagosousa81&theme=matrix&row=2&column=5)-->
 
