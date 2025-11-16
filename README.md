@@ -46,10 +46,6 @@
 
 <div align=center><img src="./profile-3d-contrib/profile-night-green.svg" alt="" width="90%"></div>
 
-
-| <div style="width: 25%"><h3>Uma startup intensivamente focada no desenvolvimento de software seguro. <br><br><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%237700FF?&logo=github&logoColor=white" target="_blank" style="height: 30px"></a>  <a href="https://docs.google.com/forms/d/e/1FAIpQLSed6wOG8Isfg6q4YAOVWmlKSjtvUG8z0evKc_Lo_3RNPBwGUw/viewform?usp=sf_link" target="_blank"><img src="https://img.shields.io/badge/FAZER%20PARTE-nocolor?style=flat" style="height: 30px"/></a></h3></div> | <div style="width: 75%"><a href="https://github.com/EBS-Security-Systems/#readme" target="_blank"><p><img src="/image2.png" alt="EBS Security Systems"  width="40%" ></p></a></div> |
-| --- | --- |
-
  
  
 # Sobre mim...
@@ -64,7 +60,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&count_private=true&include_all_pull-requests=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&bg_color=90,000000,005000,000000&PAT_1=Jammes_Scoott)
 <!--prs_merged_percentage,-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoSousa81&theme=chartreuse_dark&PAT_1=thiagosousa81)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chuggu12&theme=chartreuse_dark&PAT_1=Chuggu12)
 
 </div>
 
