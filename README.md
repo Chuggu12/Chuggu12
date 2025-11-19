@@ -10,7 +10,7 @@
 ![snake gif](https://github.com/Chuggu12/Profile_Snake/blob/main/101.svg)
 
 
-<details>
+
   
 ### 📚 M.A. Economics (2023–2025) — Delhi Technological University<b>
 
@@ -37,10 +37,10 @@
 <details><summary><h3>Welcome to the repository</h3></summary>
 
 ---- this is blank, fill it, what u like with
-</details>
+
 
   
-</details>
+
 
 <h2 align=center>GitHub Contributions</h2>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&count_private=true&include_all_pull-requests=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&bg_color=90,000000,005000,000000&PAT_1=Jammes_Scoott)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit01-oss&show_icons=true&locale=pt-br&theme=chartreuse-dark&layout=compact&count_private=true&include_all_pull-requests=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&bg_color=90,000000,005000,000000&PAT_1=Jammes_Scoott)
 <!--prs_merged_percentage,-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chuggu12&theme=chartreuse_dark&PAT_1=Chuggu12)
@@ -111,7 +111,6 @@
 <br>OBS.: Boa parte dos arquivos de projeto da EBS Systems são privados. Caso queira conhecer melhor do funcionamento interno entre em contato.
 
 
-### [🕹️Tic Tac Toe](https://thiagosousa81.github.io/Tic-Tac-Toe/index.svg)
 
 </details>
 
@@ -131,7 +130,7 @@
  <a href = "https://thiagosousa81.wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/Wordpress-00A000?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
   <a href="https://www.instagram.com/thiago_sousa81/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiagosousa81@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/thiagosousa81/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ankit-anand-291a02238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://youtube.com/@thiago_sousa81?si=Vh9UU5qfCKUsw4hX" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   
   </p>
