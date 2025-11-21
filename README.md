@@ -112,8 +112,6 @@
 
 
 
-</details>
-
 
 <h2 align=center>Projetos que participo</h2>
 
@@ -125,7 +123,6 @@
 
 > Última atualização: Janeiro/2025
 
-<div> 
 
  <a href = "https://thiagosousa81.wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/Wordpress-00A000?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
   <a href="https://www.instagram.com/thiago_sousa81/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -135,6 +132,6 @@
   
   </p>
 
-  </div>
+
     
 [<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0&height=100&section=footer"/>](https://capsule-render.vercel.app/)
